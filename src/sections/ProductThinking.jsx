@@ -1,12 +1,12 @@
 import React from 'react'
 import { motion } from 'framer-motion'
-import { 
-  Users, 
-  ClipboardCheck, 
-  Lightbulb, 
-  Target, 
-  BarChart3, 
-  ShieldCheck, 
+import {
+  Users,
+  ClipboardCheck,
+  Lightbulb,
+  Target,
+  BarChart3,
+  ShieldCheck,
   Server,
   ArrowRight,
   Sparkles

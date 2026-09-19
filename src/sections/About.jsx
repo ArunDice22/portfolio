@@ -66,6 +66,7 @@ export function About() {
                 <Badge variant="violet" size="md">Component Architecture</Badge>
                 <Badge variant="emerald" size="md">Production Deployment</Badge>
                 <Badge variant="sky" size="md">Responsive Precision</Badge>
+                   <Badge variant="sky" size="md">Hello world</Badge>
               </div>
             </Card>
           </motion.div>
