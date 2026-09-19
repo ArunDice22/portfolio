@@ -105,6 +105,9 @@ export function Contact() {
                       <span className="text-[10px] font-mono uppercase text-slate-500 block">
                         LinkedIn Profile
                       </span>
+                       <span className="text-[10px] font-mono uppercase text-slate-500 block">
+                        Naurkri Profile
+                      </span>
                       <span className="text-xs sm:text-sm font-medium">
                         {profileData.contact.linkedin}
                       </span>

@@ -26,6 +26,9 @@ export function AdditionalSkills() {
           <p className="text-xs sm:text-sm text-slate-400 dark:text-slate-400 light:text-slate-600 mt-2 max-w-xl mx-auto">
             Supporting competencies that aid in design communication, technical writing, and IT environments.
           </p>
+            <p className="text-xs sm:text-sm text-slate-400 dark:text-slate-400 light:text-slate-600 mt-2 max-w-xl mx-auto">
+            I have to work Good at some point I will prove it.
+          </p>
         </div>
 
         <motion.div

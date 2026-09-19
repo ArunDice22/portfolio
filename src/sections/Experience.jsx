@@ -54,7 +54,7 @@ export function Experience() {
 
             <div className="shrink-0 flex sm:flex-col items-center sm:items-end justify-between">
               <span className="text-3xl sm:text-4xl font-extrabold text-gradient-primary">
-                1.5+
+                5+
               </span>
               <span className="text-xs font-mono text-slate-400">
                 Years Active
