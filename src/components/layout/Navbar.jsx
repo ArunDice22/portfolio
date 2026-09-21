@@ -54,7 +54,7 @@ export function Navbar({ activeSection, theme, toggleTheme }) {
             </div>
             <div className="flex flex-col">
               <span className="font-bold text-sm sm:text-base tracking-tight text-slate-100 dark:text-slate-100 light:text-slate-900 group-hover:text-indigo-400 transition-colors">
-                Ashok Kumar V
+                V Arun Kumar
               </span>
               <span className="text-[10px] sm:text-xs font-mono text-slate-400 dark:text-slate-400 light:text-slate-500 hidden xs:block">
                 UI/UX &bull; React

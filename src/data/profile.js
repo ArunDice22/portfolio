@@ -1,10 +1,10 @@
 export const profileData = {
-  name: "Ashok Kumar V",
+  name: "V Arun Kumar",
   role: "UI/UX Designer & React.js Developer",
   experienceBadge: "1.5+ Years Experience",
   tagline: "I design intuitive digital experiences and turn ideas into responsive, production-ready web applications.",
   bio: [
-    "I am Ashok Kumar V, a UI/UX Designer and React.js Developer with 1.5 years of experience in designing and developing responsive digital experiences.",
+    "I am V Arun Kumar, a UI/UX Designer and React.js Developer with 1.5 years of experience in designing and developing responsive digital experiences.",
     "My workflow combines user research, requirement understanding, UI/UX design, frontend development, analytics, and basic production deployment.",
     "I enjoy transforming requirements and ideas into clean, intuitive, and usable digital products."
   ],
@@ -27,11 +27,11 @@ export const profileData = {
     { step: "07", title: "Deployment", desc: "Setting up basic server environments, Docker containers, and live publishing." }
   ],
   contact: {
-    email: "arunkumar.v@example.com", // Placeholder: replace with real email
-    phone: "+91 98765 43210", // Placeholder: replace with real phone
+    email: "arunkumarv@example.com", // Placeholder: replace with real email
+    phone: "+91 88247 03015", // Placeholder: replace with real phone
     location: "India",
-    linkedin: "https://linkedin.com/in/arunkumar-v", // Placeholder: replace with real URL
+    linkedin: "https://linkedin.com/in/arunkumarv", // Placeholder: replace with real URL
     github: "https://github.com/arunkumar-v", // Placeholder: replace with real URL
-    resumeUrl: "#resume" // Placeholder: replace with resume PDF link
+    resumeUrl: "#resumedownload" // Placeholder: replace with resume PDF link
   }
 }
