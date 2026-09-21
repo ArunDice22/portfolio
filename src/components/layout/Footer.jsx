@@ -111,7 +111,7 @@ export function Footer() {
         {/* Bottom bar */}
         <div className="pt-8 flex flex-col sm:flex-row items-center justify-between gap-4 text-xs text-slate-500">
           <p className="flex items-center gap-1.5">
-            &copy; {new Date().getFullYear()} V Arun Kumar. Crafted with React.js &amp; Tailwind CSS.
+            &copy; {new Date().getFullYear()} Arun Dice DCE. Crafted with React.js &amp; Tailwind CSS.
           </p>
 
           <button
