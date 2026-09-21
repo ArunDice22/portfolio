@@ -1,10 +1,10 @@
 export const profileData = {
-  name: "V Arun Kumar",
+  name: "Arun Dice DCE",
   role: "UI/UX Designer & React.js Developer",
   experienceBadge: "1.5+ Years Experience",
   tagline: "I design intuitive digital experiences and turn ideas into responsive, production-ready web applications.",
   bio: [
-    "I am V Arun Kumar, a UI/UX Designer and React.js Developer with 1.5 years of experience in designing and developing responsive digital experiences.",
+    "I am Arun Dice DCE, a UI/UX Designer and React.js Developer with 1.5 years of experience in designing and developing responsive digital experiences.",
     "My workflow combines user research, requirement understanding, UI/UX design, frontend development, analytics, and basic production deployment.",
     "I enjoy transforming requirements and ideas into clean, intuitive, and usable digital products."
   ],
